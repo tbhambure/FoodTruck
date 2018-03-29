@@ -1,7 +1,7 @@
 # FoodTrucks
 Simple command-line program that will print out a list of open food trucks.
 
-#Steps to run the program
+## Steps to run the program
 1. Clone the repository
 2. Setup maven (if using for the first time)
    1. https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
